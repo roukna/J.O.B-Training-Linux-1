@@ -62,5 +62,5 @@ In a terminal window practice the concatenate command which is called cat. Conca
 In a terminal window practice executing commands as another user by typing sudo. Sudo is a very powerful command that allows you to execute programs on a Linux system that are restricted to specific account with higher elevated rights.
 1) Type the command ```man sudo``` and read the manual for the command
 2) Type the command ```sudo su -``` and type in your password
-  a) note that your terminal now reads root because you have just switched to the root user account
+  a) note that your terminal now reads root because you have just switched to the root user account. Every command you type is executed as the root user and can be harmful if you are not careful
 3) Type the command ```exit``` to return to your regular user account
