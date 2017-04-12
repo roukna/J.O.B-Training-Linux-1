@@ -64,4 +64,18 @@ In a terminal window practice executing commands as another user by typing sudo.
   a) note that your terminal now reads root because you have just switched to the root user account. Every command you type is executed as the root user and can be harmful if you are not careful
 3) Type the command ```exit``` to return to your regular user account
 
+### Exercise 7 General Regular Expression Parser
+In a terminal window practice the general regular expression parser command by typing grep. Grep is a very powerful command that allows you to print lines from a file that match information you are searching for in human readable files. This command is often used to search for and identify patterns in a file or count lines in a file. The uses of the grep command are extensive.
+1) Type the command ```man grep``` and read the manual for the command
+2) Type the command ```grep we gettysburg-address.txt```
+  a) note that your terminal returns every line in the file that includes the word we
+3) Now type the command ```grep -i we gettysburg-address.txt``` and press enter
+  a) note that your terminal returns every line in the file that inclues the word we and We because the -i option turns on case insensitivity for grep
+4) Now type the command ```grep -in we gettysburg-address.txt``` and press enter
+  a) note that the line number on which the word we is listed before each line returned
+5) Now type the command ```grep -ic we gettysburg-address.txt``` and press enter
+  a) note that the number of times the word we or We is in the Gettysburg Address is counted
+6) Now type the command ```grep -in 'it' * > grep.txt``` and press enter
+  a) note that grep has search every file in the current directory for the word it and returned output showing the file and line number it found it on
+
 ## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board/" target="_blank">Linux Commands Course Website</a> to continue to the next module.
