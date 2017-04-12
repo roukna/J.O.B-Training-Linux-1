@@ -25,7 +25,6 @@ In a terminal window practice the present working directory command which is cal
 4) Change directory to the users directory by typing ```cd /users``` and then type ```pwd```
 5) Type the command ```cd $repodir``` to return to your exercise directory
 
-
 ### Exercise 3 Change Directory
 In a terminal window practice the change directory command which is called cd. 
 1) Type the command ```man cd``` and read the documentation related to the manual for the change directory command
@@ -65,4 +64,4 @@ In a terminal window practice executing commands as another user by typing sudo.
   a) note that your terminal now reads root because you have just switched to the root user account. Every command you type is executed as the root user and can be harmful if you are not careful
 3) Type the command ```exit``` to return to your regular user account
 
-##Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board/">Linux Commands Course Website</a> to continue to the next module.
+## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board/" target="_blank">Linux Commands Course Website</a> to continue to the next module.
