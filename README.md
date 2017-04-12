@@ -64,3 +64,5 @@ In a terminal window practice executing commands as another user by typing sudo.
 2) Type the command ```sudo su -``` and type in your password
   a) note that your terminal now reads root because you have just switched to the root user account. Every command you type is executed as the root user and can be harmful if you are not careful
 3) Type the command ```exit``` to return to your regular user account
+
+##Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board/">Linux Commands Course Website</a> to continue to the next module.
