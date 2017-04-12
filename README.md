@@ -11,26 +11,29 @@
 8) Press enter
 
 ## You will now practice the basic commands in linux using the newly cloned repo that will track your work.
+Before we begin set your current repository to a variable we can use later by typing repodir=`pwd`
 
 ### Exercise 1 Manual
 The ```man``` command is used to display the manual for any Linux command. If you forget how to use a command in Linux you can simply type ```man``` and then the command you want to read about. For example you can type ```man ls``` to display the manual that describes the function and options for the list directory content command. You will use the man command in the further exercises of this module.
 
-### Exercise 2 Change Directory
+### Exercise 2 Present Working Directory
+In a terminal window practice the present working directory command which is call pwd.
+1) In your terminal type the command pwd
+  a) note that the terminal displays the current directory that you are working in
+2) Document your current directory by typing the command ```pwd > pwd.txt```
+3) Change directory to the root of your file system by typing ```cd /``` and then type ```pwd```
+4) Change directory to the users directory by typing ```cd /users``` and then type ```pwd```
+5) Type the command ```cd $repodir``` to return to your exercise directory
+
+
+### Exercise 3 Change Directory
 In a terminal window practice the change directory command which is called cd. 
 1) Type the command ```man cd``` and read the documentation related to the manual for the change directory command
   a) press the Q button to quit out of the manual
 2) Change directory to the root of your file system by typing ```cd /```
-3) Change directory to your Linux home drive by typing ```cd ~```.
-4) Verify that you are in your home directory by typing ```pwd > pwd.txt```
-
-
-### Exercise 3 Present Working Directory
-In a terminal window practice the present working directory command which is call pwd.
-1) In your terminal type the command pwd
-  a) note that the terminal displays the current directory that you are working in
-2) Change directory to the root of your file system by typing ```cd /``` and then type ```pwd```
-3) Change directory to the users directory by typing ```cd /users``` and then type ```pwd```
-4) Log your work by typing ```pwd > pwd2.txt```
+3) Change directory to your Linux home drive by typing ```cd ~```
+4) Type the command ```cd $repodir``` to return to your exercise directory
+4) Verify that you are in your exercise directory by typing ```pwd > pwd.txt```
 
 ### Exercise 4 List Directory Content
 In a terminal window practice the list directory content command which is called ls.
@@ -44,3 +47,20 @@ In a terminal window practice the list directory content command which is called
 5) List hidden files in the current directory by creation date by typing ```ls -latr```
   a) note that you see all files plus hidden files sorted by last modified date
 6) Type the command ```ls -latr > ls.txt``` to log your work to the file ls.txt for later review
+
+### Exercise 5 Concatenate
+In a terminal window practice the concatenate command which is called cat. Concatenate can display any human readable file such as a text file, a comma serperated values file or script.
+1) Type the command ```man cat``` and read the manual for the command
+2) Display the content of the pwd.txt file to your screen by typing ```cat pwd.txt```
+  a) see that the cat file displays on your screen the pwd.txt file you created in the present working directory exercise
+3) Type ```cd /``` and then type ```cat users```
+  a) note that you receive an error when trying to concatenate users because it is a directory and not a file 
+4) Type the command ```cd $repodir``` to return to your exercise directory
+4) Type ```echo 'This is a test file' > test.txt``` and then type ```cat test.txt```
+
+### Exercise 6 Execute a Command as another User
+In a terminal window practice executing commands as another user by typing sudo. Sudo is a very powerful command that allows you to execute programs on a Linux system that are restricted to specific account with higher elevated rights.
+1) Type the command ```man sudo``` and read the manual for the command
+2) Type the command ```sudo su -``` and type in your password
+  a) note that your terminal now reads root because you have just switched to the root user account
+3) Type the command ```exit``` to return to your regular user account
