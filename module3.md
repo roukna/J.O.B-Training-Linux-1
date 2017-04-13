@@ -3,12 +3,15 @@
 ## You will now practice the file handling commands in linux using the previously cloned repo that will track your work.
 
 ### Exercise 1 Touch
-In a terminal window practice the date command which is call date.
-1) In your terminal type the command ```man date``` and read the documentation related to the date command
-2) Type the command date and note the format and information displayed on your screen
+In a terminal window practice the touch command which is called touch.
+1) In your terminal type the command ```man touch``` and read the documentation related to the command
+2) Type the command ```touch file.txt``` 
+a) Type the command ```ls -ltr``` and note that you now have a file called file.txt created that is 0 bytes in size
+3) Type the command ```echo 'this is line one' > file.txt```
+a) Type the command cat file.txt and note that the information this is line one is now added to file.txt
 
 ### Exercise 2 Nano
-In a terminal window practice the disk free command which is call df. This command is useful to discover if you are out of space on your local disk.
+In a terminal window use the Nano command which is call df. This command is useful to discover if you are out of space on your local disk.
 1) In your terminal type the command ```df```
   a) note that the terminal displays the disk usage and availablity
 2) In your terminal type the command ```df -h```
