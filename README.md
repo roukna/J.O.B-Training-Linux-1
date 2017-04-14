@@ -76,6 +76,6 @@ In a terminal window practice the general regular expression parser command by t
 5) Now type the command ```grep -ic we gettysburg-address.txt``` and press enter
   a) note that the number of times the word we or We is in the Gettysburg Address is counted
 6) Now type the command ```grep -in 'it' * > grep.txt``` and press enter
-  a) note that grep has search every file in the current directory for the word it and returned output showing the file and line number it found it on
+  a) note that grep has searched every file in the current directory for the word it and returned output showing the file and line number it found it on
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board/" target="_blank">Linux Commands Course Website</a> to continue to the next module.
+## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board/" target="system">Linux Commands Course Website</a> to continue to the next section.
