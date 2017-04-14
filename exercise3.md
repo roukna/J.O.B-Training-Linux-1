@@ -10,7 +10,7 @@ a) Type the command ```ls -ltr``` and note that you now have a file called file.
 3) Type the command ```echo 'this is line one' > file.txt```
 a) Type the command cat file.txt and note that the information this is line one is now added to file.txt
 
-### Exercise 2 cp
+### Exercise 2 CP
 In a terminal window use the copy command which is call cp. This command is copy files on your local disk.
 1) In your terminal type the command ```man cp``` and read the documentation related to the command
 2) In your terminal type the command ```cp file.txt file2.txt```
@@ -30,7 +30,7 @@ In a terminal window practice the remove command which is called rm. This comman
 5) In your terminal type the command ```ls -ltr```
   a) note that the file removeme.txt is gone now
 
-### Exercise 4 mkdir
+### Exercise 4 MKDIR
 In a terminal window practice the make directory command which is called mkdir.
 1) Type the command ```man mkdir``` and read the documentation related to the manual for the change directory command
   a) press the Q button to quit out of the manual
@@ -42,24 +42,8 @@ In a terminal window practice the make directory command which is called mkdir.
 In a terminal window practice the move command which is called mv.
 1) Type the command ```man mv``` and read the documentation related to the manual for the move command
   a) press the Q button to quit out of the manual
-2) In your terminal type the command ```mv ~/Desktop/```
-  a) note the terminal shows you the amount of time the computer you are on has been running
-3) In your terminal type the command ```uptime > uptime.txt``` to log your work
+2) In your terminal type the command ```mv ~/Desktop/file2.txt file3.txt```
+  a) note the file2.txt file you copied to your desktop is now moved to your local directory and is called file3.txt now
 
-### Exercise 6 MKDIR
-In a terminal window practice the uptime command which is called uptime.
-1) Type the command ```man uptime``` and read the documentation related to the manual for the change directory command
-  a) press the Q button to quit out of the manual
-2) In your terminal type the command ```uptime```
-  a) note the terminal shows you the amount of time the computer you are on has been running
-3) In your terminal type the command ```uptime > uptime.txt``` to log your work
-
-### Exercise 7 CP
-In a terminal window practice the uptime command which is called uptime.
-1) Type the command ```man uptime``` and read the documentation related to the manual for the change directory command
-  a) press the Q button to quit out of the manual
-2) In your terminal type the command ```uptime```
-  a) note the terminal shows you the amount of time the computer you are on has been running
-3) In your terminal type the command ```uptime > uptime.txt``` to log your work
 
 ## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#data" target="_blank">Linux Commands Course Website</a> to continue to the next section.
