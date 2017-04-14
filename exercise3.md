@@ -10,37 +10,39 @@ a) Type the command ```ls -ltr``` and note that you now have a file called file.
 3) Type the command ```echo 'this is line one' > file.txt```
 a) Type the command cat file.txt and note that the information this is line one is now added to file.txt
 
-### Exercise 2 Nano
-In a terminal window use the Nano command which is call df. This command is useful to discover if you are out of space on your local disk.
-1) In your terminal type the command ```df```
-  a) note that the terminal displays the disk usage and availablity
-2) In your terminal type the command ```df -h```
-  a) note that the terminal now displays disk usage in gigabyte or megabyte sizes to make it easier to read
-3) In your terminal type the command ```df -lh```
-  a) note that the terminal now displays local file systems only in human readable format
-4) In your terminal type the command ```df -h > df.txt``` and press enter to log your work for this exercise
+### Exercise 2 cp
+In a terminal window use the copy command which is call cp. This command is copy files on your local disk.
+1) In your terminal type the command ```man cp``` and read the documentation related to the command
+2) In your terminal type the command ```cp file.txt file2.txt```
+3) In your terminal type the command ```ls -ltr```
+  a) note that there is now a file2.txt file and that it is the same size as file.txt
+4) In your terminal type the command ```cp file2.txt ~/Desktop```
+5) Open a finder  window a see that file.txt is copied to your desktop
 
-### Exercise 3 Vim
-In a terminal window practice the top command which is called top. This command is useful to discover what program may be slowing down a computer if the processer is close to 100% utilization.
-1) Type the command ```man top``` and read the documentation related to the manual for the change directory command
+### Exercise 3 RM
+In a terminal window practice the remove command which is called rm. This command is used to remove or delete files from local disk.
+1) Type the command ```man rm``` and read the documentation related to the manual for the change directory command
   a) press the Q button to quit out of the manual
-2) In your terminal type the command ```top```
-  a) note the terminal shows you all the running commands on your computer with the highest CPU usage program listed at the top
-  b) press the Q button to quit top
+2) In your terminal type the command ```touch removeme.txt```
+3) In your terminal type the command ```ls -ltr```
+  a) note you have a file called removeme.txt
+4) In your terminal type the command ```rm removeme.txt```
+5) In your terminal type the command ```ls -ltr```
+  a) note that the file removeme.txt is gone now
 
-### Exercise 4 RM
-In a terminal window practice the uptime command which is called uptime.
-1) Type the command ```man uptime``` and read the documentation related to the manual for the change directory command
+### Exercise 4 mkdir
+In a terminal window practice the make directory command which is called mkdir.
+1) Type the command ```man mkdir``` and read the documentation related to the manual for the change directory command
   a) press the Q button to quit out of the manual
-2) In your terminal type the command ```uptime```
-  a) note the terminal shows you the amount of time the computer you are on has been running
-3) In your terminal type the command ```uptime > uptime.txt``` to log your work
+2) In your terminal type the command ```mkdir mydata```
+3) In your terminal type the command ```ls -ltr```
+  a) note you have a directory called mydata
 
 ### Exercise 5 MV
-In a terminal window practice the uptime command which is called uptime.
-1) Type the command ```man uptime``` and read the documentation related to the manual for the change directory command
+In a terminal window practice the move command which is called mv.
+1) Type the command ```man mv``` and read the documentation related to the manual for the move command
   a) press the Q button to quit out of the manual
-2) In your terminal type the command ```uptime```
+2) In your terminal type the command ```mv ~/Desktop/```
   a) note the terminal shows you the amount of time the computer you are on has been running
 3) In your terminal type the command ```uptime > uptime.txt``` to log your work
 
