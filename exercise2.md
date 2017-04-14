@@ -33,4 +33,4 @@ In a terminal window practice the uptime command which is called uptime.
   a) note the terminal shows you the amount of time the computer you are on has been running
 3) In your terminal type the command ```uptime > uptime.txt``` to log your work
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board/" target="_blank">Linux Commands Course Website</a> to continue to the next module.
+## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#filehandling" target="_blank">Linux Commands Course Website</a> to continue to the next module.
