@@ -1,4 +1,4 @@
-# J.O.B-Training-File Handling Commands Assignment
+# J.O.B-Training-Data Manipulation Commands Assignment
 
 ## You will now practice the file handling commands in linux using the previously cloned repo that will track your work.
 
