@@ -5,7 +5,7 @@
 ### Exercise 1 Date
 In a terminal window practice the date command which is call date.
 1) In your terminal type the command ```man date``` and read the documentation related to the date command
-2) Type the command date and note the format and information displayed on your screen
+2) Type the command ```date``` and note the format and information displayed on your screen
 
 ### Exercise 2 Disk Free
 In a terminal window practice the disk free command which is call df. This command is useful to discover if you are out of space on your local disk.
@@ -33,4 +33,4 @@ In a terminal window practice the uptime command which is called uptime.
   a) note the terminal shows you the amount of time the computer you are on has been running
 3) In your terminal type the command ```uptime > uptime.txt``` to log your work
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#filehandling" target="_blank">Linux Commands Course Website</a> to continue to the next module.
+## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#filehandling" target="_blank">Linux Commands Course Website</a> to continue to the next section.
