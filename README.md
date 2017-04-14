@@ -1,4 +1,4 @@
-# J.O.B-Training-Linux Basic Commands Assignment
+# J.O.B-Training-Linux File Commands Assignment
 
 ## In this assignment you will first clone this repository to your local computer by doing the following:
 1) click the fork button
