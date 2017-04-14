@@ -1,4 +1,4 @@
-# J.O.B-Training-System Information Commands Assignment
+# J.O.B-Training-System Commands Assignment
 
 ## You will now practice the system information commands in linux using the previously cloned repo that will track your work.
 
