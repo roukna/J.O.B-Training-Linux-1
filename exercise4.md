@@ -47,9 +47,16 @@ In a terminal window practice the vim command. This command is useful edit files
 In a terminal window practice the cut command.
 1) Type the command ```man cut``` and read the documentation related to the manual for the change directory command
   a) press the Q button to quit out of the manual
-2) In your terminal type the command ```uptime```
-  a) note the terminal shows you the amount of time the computer you are on has been running
-3) In your terminal type the command ```uptime > uptime.txt``` to log your work
+2) In your terminal type the command ```cat cutpractice.txt```
+3) Now type ```cut -c2 cutpractice.txt```
+  a) note that the second character from each line is printed
+4) Now ```cut -c1-3 cutpractice.txt```
+  a) note that the first 3 characters of each line are printed
+5) Now type ```cut -c-8 cutpractice.txt```
+  a) note that the first 8 characters of each line are extracted from the begging of each line
+6) Now type ```cut -c15- cutpractice.txt```
+  a) note that the last 15 characters of each line are extracted
+7) Now type ```cut -c20- cutpractice.txt > cut.txt``` to log your work
 
 
 ## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#network" target="_blank">Linux Commands Course Website</a> to continue to the next module.
