@@ -22,4 +22,4 @@ In a terminal window practice the curl command. This command is useful to extrac
 5) Now type ```curl -s http://artscene.textfiles\.com/vt100/wineglas.vt | pv -L9600 -q``` Cheers! you are down with the exercises for this class
 
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#quiz" target="_blank">Linux Commands Course Website</a> to continue to the next module.
+## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#quiz" target="_blank">Linux Commands Course Website</a> to continue to the next section.
