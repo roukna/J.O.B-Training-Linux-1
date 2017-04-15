@@ -59,4 +59,4 @@ In a terminal window practice the cut command.
 7) Now type ```cut -c20- cutpractice.txt > cut.txt``` to log your work
 
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#network" target="_blank">Linux Commands Course Website</a> to continue to the next module.
+## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#network" target="_blank">Linux Commands Course Website</a> to continue to the next section.
