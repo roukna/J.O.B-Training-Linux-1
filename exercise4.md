@@ -44,8 +44,8 @@ In a terminal window practice the vim command. This command is useful edit files
 5) Vim comes with its very own tutorial and provides lessons for you to practice and improve your use of vim. At the conclusion of this module you are encouraged to type ```vimtutor``` in a terminal and take the tutorial to improve your vim skills. 
   
 ### Exercise 4 Cut
-In a terminal window practice the uptime command which is called uptime.
-1) Type the command ```man uptime``` and read the documentation related to the manual for the change directory command
+In a terminal window practice the cut command.
+1) Type the command ```man cut``` and read the documentation related to the manual for the change directory command
   a) press the Q button to quit out of the manual
 2) In your terminal type the command ```uptime```
   a) note the terminal shows you the amount of time the computer you are on has been running
