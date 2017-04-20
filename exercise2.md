@@ -1,6 +1,6 @@
 # J.O.B-Training-System Commands Assignment
 
-## You will now practice the system information commands in linux using the previously cloned repo that will track your work.
+## In this online exercise you will practice the system information commands in linux using the same cloned repo in the last exercise that will track your work.
 
 ### Exercise 1 Date
 In a terminal window practice the date command which is call date.
@@ -33,4 +33,4 @@ In a terminal window practice the uptime command which is called uptime.
   a) note the terminal shows you the amount of time the computer you are on has been running
 3) In your terminal type the command ```uptime > uptime.txt``` to log your work
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#filehandling" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+## You have now completed the second online exercise for Linux commands. You will now be taken back to the Jump on Board website to begin the next section regarding file handling commands. Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#filehandling" target="_blank">Linux Commands Course Website</a> to continue to the next section.
