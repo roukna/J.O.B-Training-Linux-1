@@ -46,4 +46,4 @@ In a terminal window practice the move command which is called mv.
   a) note the file2.txt file you copied to your desktop is now moved to your local directory and is called file3.txt now
 
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#data" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+## You have now completed the third online exercise for Linux commands. You will now be taken back to the Jump on Board website to be introduced to the next section regarding data manipulation commands.Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#data" target="_blank">Linux Commands Course Website</a> to continue to the next section.
