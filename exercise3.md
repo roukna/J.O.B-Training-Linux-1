@@ -1,6 +1,6 @@
 # J.O.B-Training-File Handling Commands Assignment
 
-## You will now practice the file handling commands in linux using the previously cloned repo that will track your work.
+## You will now practice the file handling commands in Linux using the previously cloned repo that will track your work.
 
 ### Exercise 1 Touch
 In a terminal window practice the touch command which is called touch.
