@@ -1,6 +1,6 @@
 # J.O.B-Training-System Commands Assignment
 
-## In this online exercise you will practice the system information commands in linux using the same cloned repo in the last exercise that will track your work.
+## In this online exercise you will practice the system information commands in your terminal program using the same cloned repo in the last exercise that will track your work.
 
 ### Exercise 1 Date
 In a terminal window practice the date command which is call date.
