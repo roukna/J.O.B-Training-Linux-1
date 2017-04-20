@@ -1,6 +1,6 @@
 # J.O.B-Training-Data Manipulation Commands Assignment
 
-## You will now practice the data manipulation commands in linux using the previously cloned repo that will track your work.
+## You will now practice the data manipulation commands in Linux using the previously cloned repo that will track your work.
 
 ### Exercise 1 awk
 In a terminal window practice the pattern-directed scanning and processing language program which is called awk. Awk is an advanced program and will take time to master.
@@ -59,4 +59,4 @@ In a terminal window practice the cut command.
 7) Now type ```cut -c20- cutpractice.txt > cut.txt``` to log your work
 
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#network" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+## You have now completed the fourth online exercise for Linux commands. You will now be taken back to the Jump on Board website to begin the next section regarding network commands. Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#network" target="_blank">Linux Commands Course Website</a> to continue to the next section.
