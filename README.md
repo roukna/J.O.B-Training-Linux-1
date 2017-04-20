@@ -1,6 +1,6 @@
 # J.O.B-Training-Linux File Commands Assignment
 
-## In this assignment you will first clone this repository to your local computer by doing the following:
+## This is the first online assignment for the Linux commands training module and in this assignment you will clone this repository to your local computer by doing the following:
 1) click the fork button
 2) Select your GitHub account as the desitnation to fork the repository
 3) Click the link to your newly forked repository
@@ -10,8 +10,8 @@
 7) Type git clone and then press command V to paste the clipboard url in your terminal
 8) Press enter
 
-## You will now practice the basic commands in linux using the newly cloned repo that will track your work.
-Before we begin set your current repository to a variable we can use later by typing repodir=`pwd`
+## You will now practice the file commands in Linux using the newly cloned repo that will track your work.
+Before you begin, set your current repository to a variable we can use later by typing repodir=`pwd`
 
 ### Exercise 1 Manual
 The ```man``` command is used to display the manual for any Linux command. If you forget how to use a command in Linux you can simply type ```man``` and then the command you want to read about. For example you can type ```man ls``` to display the manual that describes the function and options for the list directory content command. You will use the man command in the further exercises of this module.
@@ -78,4 +78,4 @@ In a terminal window practice the general regular expression parser command by t
 6) Now type the command ```grep -in 'it' * > grep.txt``` and press enter
   a) note that grep has searched every file in the current directory for the word it and returned output showing the file and line number it found it on
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#system" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+## You have now completed the first online exercise for Linux commands. You will now be taken back to the Jump on Board website to begin the next section regarding system commands. Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#system" target="_blank">Linux Commands Course Website</a> to continue to the next section.
