@@ -1,6 +1,6 @@
 # J.O.B-Training-Network Commands Assignment
 
-## You will now practice the network commands in linux using the previously cloned repo that will track your work.
+## You will now practice the network commands in Linux using the previously cloned repo that will track your work.
 
 ### Exercise 1 wget
 In a terminal window practice the wget command. This command is used to download files from the internet without a browser.
@@ -22,4 +22,6 @@ In a terminal window practice the curl command. This command is useful to extrac
 5) Now type ```curl -s http://artscene.textfiles\.com/vt100/wineglas.vt | pv -L9600 -q``` Cheers! you are down with the exercises for this class
 
 
-## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#quiz" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+## You have now completed the fifth and final online exercise for Linux commands. You will now be taken back to the Jump on Board website to take a quiz on the material covered in the online exercises. At the conclusion of the quiz you will have a face-to-face meeting with your trainer for a review session to discuss your experience with the content in this course. 
+
+## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#quiz" target="_blank">Linux Commands Course Website</a> to start the quiz.
