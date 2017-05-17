@@ -29,12 +29,10 @@ In a terminal window practice the present working directory command which is cal
 ### Exercise 3 Change Directory
 In a terminal window practice the change directory command which is called cd. 
 
-1. Type the command ```man cd``` and read the documentation related to the manual for the change directory command
-  * press the Q button to quit out of the manual
-2. Change directory to the root of your file system by typing ```cd /```
-3. Change directory to your Linux home drive by typing ```cd ~```
-4. Type the command ```cd $repodir``` to return to your exercise directory
-5. Verify that you are in your exercise directory by typing ```pwd > pwd.txt```
+1. Change directory to the root of your file system by typing ```cd /```
+2. Change directory to your Linux home drive by typing ```cd ~```
+3. Type the command ```cd $repodir``` to return to your exercise directory
+4. Verify that you are in your exercise directory by typing ```pwd > pwd.txt```
 
 ### Exercise 4 List Directory Content
 In a terminal window practice the list directory content command which is called ls.
