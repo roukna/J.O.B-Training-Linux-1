@@ -12,6 +12,7 @@
 
 ## You will now practice the file commands in Linux using the newly cloned repo that will track your work.
 Before you begin, set your current repository to a variable we can use later by typing ``` repodir=`pwd` ```
+Note: the symbol used in the above command is the backtick and not the single quote. The backtick is next to the number 1 on your keyboard.
 
 ### Exercise 1 Manual
 The ```man``` command is used to display the manual for any Linux command. If you forget how to use a command in Linux you can simply type ```man``` and then the command you want to read about. For example you can type ```man ls``` to display the manual that describes the function and options for the list directory content command. You will use the man command in the further exercises of this module.
@@ -32,7 +33,7 @@ In a terminal window practice the change directory command which is called cd.
 1. Change directory to the root of your file system by typing ```cd /```
 2. Change directory to your Linux home drive by typing ```cd ~```
 3. Type the command ```cd $repodir``` to return to your exercise directory
-4. Verify that you are in your exercise directory by typing ```pwd > pwd.txt```
+4. Verify that you are in your exercise directory by typing ```pwd >> pwd.txt```
 
 ### Exercise 4 List Directory Content
 In a terminal window practice the list directory content command which is called ls.
