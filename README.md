@@ -12,7 +12,7 @@
 
 ## You will now practice the file commands in Linux using the newly cloned repo that will track your work.
 Before you begin, set your current repository to a variable we can use later by typing ``` repodir=`pwd` ```
-Note: the symbol used in the above command is the backtick and not the single quote. The backtick is next to the number 1 on your keyboard.
+Note: the symbol used here is the backtick and not the single quote. The backtick is next to the number 1 on your keyboard.
 
 ### Exercise 1 Manual
 The ```man``` command is used to display the manual for any Linux command. If you forget how to use a command in Linux you can simply type ```man``` and then the command you want to read about. For example you can type ```man ls``` to display the manual that describes the function and options for the list directory content command. You will use the man command in the further exercises of this module.
