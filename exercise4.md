@@ -57,9 +57,9 @@ In a terminal window practice the cut command.
 4. Now ```cut -c1-3 cutpractice.txt```
   * note that the first 3 characters of each line are printed
 5. Now type ```cut -c-8 cutpractice.txt```
-  * note that the first 8 characters of each line are extracted from the begging of each line
+  * note that the first 8 characters of each line are extracted from the beginning of each line
 6. Now type ```cut -c15- cutpractice.txt```
-  * note that the last 15 characters of each line are extracted
+  * note that the 15th character to the end of each line are extracted
 7. Now type ```cut -c20- cutpractice.txt > cut.txt``` to log your work
 
 
