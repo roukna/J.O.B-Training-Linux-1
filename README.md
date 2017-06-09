@@ -18,7 +18,7 @@ Note: the symbol used here is the backtick and not the single quote. The backtic
 The ```man``` command is used to display the manual for any Linux command. If you forget how to use a command in Linux you can simply type ```man``` and then the command you want to read about. For example you can type ```man ls``` to display the manual that describes the function and options for the list directory content command. You will use the man command in the further exercises of this module.
 
 ### Exercise 2 Present Working Directory
-In a terminal window practice the present working directory command which is call pwd.
+In a terminal window practice the present working directory command which is called pwd.
 
 1. In your terminal type the command pwd
 	* note that the terminal displays the current directory that you are working in
