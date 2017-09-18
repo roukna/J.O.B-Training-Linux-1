@@ -1,0 +1,15 @@
+total 112
+-rw-r--r--   1 rsengupta  staff    271 Sep 18 10:57 phonebook.csv
+-rw-r--r--   1 rsengupta  staff   1909 Sep 18 10:57 gettysburg-address.txt
+-rw-r--r--   1 rsengupta  staff   2228 Sep 18 10:57 exercise5.md
+-rw-r--r--   1 rsengupta  staff   4212 Sep 18 10:57 exercise4.md
+-rw-r--r--   1 rsengupta  staff   3122 Sep 18 10:57 exercise3.md
+-rw-r--r--   1 rsengupta  staff   2646 Sep 18 10:57 exercise2.md
+-rw-r--r--   1 rsengupta  staff    149 Sep 18 10:57 cutpractice.txt
+-rw-r--r--   1 rsengupta  staff   6605 Sep 18 10:57 README.md
+-rw-r--r--   1 rsengupta  staff  11357 Sep 18 10:57 LICENSE
+drwxr-xr-x  12 rsengupta  staff    408 Sep 18 10:57 .git
+drwxr-xr-x+ 33 rsengupta  staff   1122 Sep 18 10:57 ..
+-rw-r--r--   1 rsengupta  staff     80 Sep 18 11:24 pwd.txt
+-rw-r--r--   1 rsengupta  staff      0 Sep 18 11:25 ls.txt
+drwxr-xr-x  14 rsengupta  staff    476 Sep 18 11:25 .
